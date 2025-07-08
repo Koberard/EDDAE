@@ -1,3 +1,6 @@
+# dont commit datsets
+Diamond/Testing/2D/cifar10.tar.gz
+Diamond/Testing/2D/cifar10/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
